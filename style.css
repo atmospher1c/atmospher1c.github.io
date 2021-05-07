@@ -1,22 +1,14 @@
 }
 h1 {font-family: "Pacifico"}
 
-}
-
-
-topnav a {
+.topnav a {
   float: center;
-  color: #c1db6f;
+  display: block;
+  color: #C1DB6F;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
-}
-
-topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+  font-size: 20px;
 
 body {
   text-align: center;
