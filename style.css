@@ -20,3 +20,24 @@ h1 {font-family: "Helvetica Neue"}
   color: black;
 }
 
+body {
+  text-align: center;
+}
+
+head {
+  text-align: center;
+}
+
+h2 {
+font-family: 'Cinzel';
+font-weight: bold;
+color: black;
+text-align: center;
+}
+
+h6 {
+font-family: Roboto;
+color: lightGray;
+text-align: center;
+}
+
