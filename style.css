@@ -3,8 +3,8 @@ h1 {font-family: "Pacifico"}
 
 .topnav a {
   float: center;
-  display: block;
   color: #C1DB6F;
+  padding: 14px 16px;
   text-align: center;
   text-decoration: none;
   font-size: 20px;
