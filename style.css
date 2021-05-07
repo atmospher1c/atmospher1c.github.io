@@ -1,12 +1,14 @@
 }
-h1 {font-family: "Helvetica Neue"}
+h1 {font-family: "Pacifico"}
 
-.topnav {
+}
+
+topnav {
   background-color: #FFFFFF;
   overflow: hidden;
 }
 
-.topnav a {
+topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -15,7 +17,7 @@ h1 {font-family: "Helvetica Neue"}
   font-size: 17px;
 }
 
-.topnav a:hover {
+topnav a:hover {
   background-color: #ddd;
   color: black;
 }
