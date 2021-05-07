@@ -3,14 +3,10 @@ h1 {font-family: "Pacifico"}
 
 }
 
-topnav {
-  background-color: #FFFFFF;
-  overflow: hidden;
-}
 
 topnav a {
-  float: left;
-  color: #f2f2f2;
+  float: center;
+  color: #c1db6f;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
